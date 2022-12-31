@@ -1,0 +1,15 @@
+{
+  "name": "passportlogin",
+  "version": "1.0.0",
+  "description": "Users authentication with passport",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "Vlad Zizic",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  }
+}
